@@ -9,6 +9,4 @@ Welcome to the To-Do List App! This simple yet powerful application helps you ke
 - **Delete Tasks**: Remove tasks from your list that are no longer needed. 🗑️
 - **Filter by Status**: View active or completed tasks. 🔍
 
-## 🚀 Getting Started
-
 
