@@ -5,9 +5,17 @@ Welcome to the To-Do List App! This simple yet powerful application helps you ke
 Live: https://mchahal7.github.io/To-Do-List/
 
 ## 💻 Tech Used
-- HTML
-- Javascript
-- CSS
+### HTML
+- Structures web pages.
+- Embeds content (text, images, videos).
+
+### JavaScript
+- Adds interactivity and dynamic content.
+- Manipulates HTML and CSS in real-time.
+
+### CSS
+- Styles and designs elements (colors, fonts).
+- Controls layout and responsiveness.
 ## 🌟 Features
 
 - **Add Tasks**: Quickly add new tasks to your list. ➕
